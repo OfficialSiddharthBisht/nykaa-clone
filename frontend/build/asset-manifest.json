@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07245da5.css",
+    "main.js": "/static/js/main.ff92962c.js",
+    "static/media/moisturizerspic1.PNG": "/static/media/moisturizerspic1.8bac91abdcd5eea168d1.PNG",
+    "static/media/product.png": "/static/media/product.e96f7a3a6bc551c073e9.png",
+    "static/media/product1.png": "/static/media/product1.e40837aa748ad212f88e.png",
+    "static/media/haircareimage.PNG": "/static/media/haircareimage.86b23653613d04b36a69.PNG",
+    "static/media/steal-img.png": "/static/media/steal-img.3ca8ddd6072d55848040.png",
+    "static/media/offer-img.png": "/static/media/offer-img.7968a3e6af85bf0de507.png",
+    "static/media/imagedescleft.PNG": "/static/media/imagedescleft.58295f092dcf5206b70d.PNG",
+    "static/media/productfoot.PNG": "/static/media/productfoot.c92067f47c9102763b94.PNG",
+    "static/media/credit.svg": "/static/media/credit.42db69cd76acc2a9cf45ee391c6803ac.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/index.html",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/ratingstars.PNG": "/static/media/ratingstars.6cf0af7f310b22366695.PNG",
+    "static/media/greater.svg": "/static/media/greater.030eee2d8ce8d358e83c96b16886d356.svg",
+    "static/media/save.svg": "/static/media/save.fadba35c4396435d7e592c867bd415a2.svg",
+    "static/media/info.svg": "/static/media/info.d2f5086875cd3ef5634126b850d004f5.svg",
+    "main.07245da5.css.map": "/static/css/main.07245da5.css.map",
+    "main.ff92962c.js.map": "/static/js/main.ff92962c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07245da5.css",
+    "static/js/main.ff92962c.js"
+  ]
+}
